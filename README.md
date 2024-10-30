@@ -6,7 +6,7 @@ AluraBooks é um projeto em JavaScript desenvolvido para simular um site de vend
 
 - **Filtro de livros:** Exiba livros específicos com base nas categorias (Front-end, Back-end, Dados).
 - **Ordenação por preço:** Ordene os livros de acordo com o valor, exibindo os mais acessíveis ou mais caros.
-- **Interface amigável:** Uma interface interativa que exibe os livros disponíveis de forma clara e organizada.
+- **Interface amigável:** Uma interface interativa que exibe os livros disponíveis de forma clara e organizada. (a interface foi feita pela própria Alura, no curso pratiquei apenas o JavaScript)
 
 ## Tecnologias e Conceitos Usados
 
