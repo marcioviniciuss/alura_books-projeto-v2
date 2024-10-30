@@ -1,0 +1,7 @@
+https://guilhermeonrails.github.io/casadocodigo/livros.json
+
+
+const res = await fetch(endPointDaApi);
+    livros = await res.json();
+    console.table(livros);
+    exibirOsLivrosNaTela(livros);
